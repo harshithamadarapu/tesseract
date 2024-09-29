@@ -37,9 +37,11 @@ Screenshots
 
 <img width="1440" alt="tessaract" src="https://github.com/user-attachments/assets/6e70f074-2448-4d78-918c-24aca79ed178">
 Tesseract OCR
-<img width="1440" alt="tessaract_highlight" src="<img width="1440" alt="tessarcat_highlight" src="https://github.com/user-attachments/assets/826c64d0-67da-4f5b-819e-b0369a3b50e1">
-">
+
+
+<img width="1440" alt="tessarcat_highlight" src="https://github.com/user-attachments/assets/97b19b61-3749-4161-839c-3e1dce1ac819">
 Tesseract Highlight
+
 
 
 
