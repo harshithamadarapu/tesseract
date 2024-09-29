@@ -36,3 +36,6 @@ Code Overview:
 Screenshots
 <img width="1440" alt="tessaract" src="https://github.com/user-attachments/assets/d50b11c1-6d51-47c3-9e58-299b9cdf4c46">
 
+<img width="1440" alt="tessaract_highlight" src="https://github.com/user-attachments/assets/9503e6ef-41f8-4dfe-a0e8-76a74ebf90a5">
+
+
