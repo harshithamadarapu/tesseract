@@ -38,7 +38,7 @@ Screenshots
 ![OCR Web Application Screenshot](https://github.com/user-attachments/assets/d50b11c1-6d51-47c3-9e58-299b9cdf4c46)
 *OCR Web Application  Screenshot with search*
 
-![OCR Web Application Screenshot with highlighted text](https://github.com/user-attachments/assets/9503e6ef-41f8-4dfe-a0e8-76a74ebf90a5)
+![OCR Web Application Screenshot with highlighted text]()
 *OCR Web Application Screenshot with highlighted text*
 
 
