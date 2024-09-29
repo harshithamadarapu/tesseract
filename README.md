@@ -38,7 +38,8 @@ Screenshots
 ![OCR Web Application Screenshot](https://github.com/user-attachments/assets/d50b11c1-6d51-47c3-9e58-299b9cdf4c46)
 *OCR Web Application  Screenshot with search*
 
-![OCR Web Application Screenshot with highlighted text]()
+![OCR Web Application Screenshot with highlighted text](<img width="1440" alt="tessarcat_highlight" src="https://github.com/user-attachments/assets/13b100f3-b62e-45d8-a974-68663acb146a">
+)
 *OCR Web Application Screenshot with highlighted text*
 
 
